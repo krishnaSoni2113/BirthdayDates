@@ -12,6 +12,6 @@ open class BirthdayDates: NSObject {
     
     open  func getBirthDates() -> String {
         
-        return "21 march"
+        return "21 march 1992"
     }
 }
